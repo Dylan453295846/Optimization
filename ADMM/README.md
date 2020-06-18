@@ -1,7 +1,5 @@
 # ADMM算法求解Basis pursuit 问题
 
-SA19001053 武亚琼
-
 ## ADMM算法原理
 
 问题形式：
